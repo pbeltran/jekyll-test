@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /year-archive/
+  - title: "About"
+    url: /about/
+  - title: "Pubs"
+    url: /pubs/  
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: Etapas
+    children:
+      - title: "Infantil"
+        url: /tags/
+      - title: "Primaria"
+        url: /docs/structure/
+      - title: "Secundaria"
+        url: /docs/installation/
+      - title: "Bachillerato"
+        url: /docs/upgrading/
+      - title: "Adultos"
+        url: /docs/upgrading/
